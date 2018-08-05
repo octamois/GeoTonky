@@ -2,6 +2,6 @@
 name = GeoTonky
 bundle_id = org.sugarlabs.GeoTonky
 icon = activity-helloworld
-exec = sugar-activity activity.HelloWorldActivity
+exec = sugar-activity3 activity.HelloWorldActivity
 activity_version = 1
 show_launcher = yes
